@@ -1,4 +1,4 @@
-## Hi there 👋
+![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
 
 <!--
 **gaur-avvv/gaur-avvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
