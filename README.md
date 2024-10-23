@@ -1,10 +1,7 @@
 ![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
 ### Hey! 🌞🌚 , I'm Gaurav
 
-<hr />
-  
-<div align="left">
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="340" height="270" /></div>
 
 
 
@@ -14,9 +11,7 @@
  ## About Me: 
 ###
 💜 Learning new things. I am passionate about computers, programming and cyber-sec.
-<div align="left">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="340" height="270" /></div>
-<div align="left">
+
 
 ### 🪄 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
