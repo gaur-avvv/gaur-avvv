@@ -90,9 +90,11 @@
 
 ###
 
-### 🪄 Top Contributed Repo
+### 🪄 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=gaur-avvv&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+### Graph:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaur-avvv&bg_color=000000&color=ff00ea&line=bb00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **gaur-avvv/gaur-avvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
