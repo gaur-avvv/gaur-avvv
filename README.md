@@ -9,7 +9,7 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="320" height="250" /></div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
