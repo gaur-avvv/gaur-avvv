@@ -14,7 +14,7 @@
  ## About Me: 
 ###
 💜 Learning new things. I am passionate about computers, programming and cyber-sec.
-
+<div align="left">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="340" height="270" /></div>
 
 
