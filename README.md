@@ -33,7 +33,7 @@
 ### 🔮 Tools / Languages:
 <hr />
 
-<h3 align="left"> These are the tools and languages that I have working with and have experience using them.</h3>
+<h5 align="left"> These are the tools and languages that I have working with and have experience using them.</h5>
 
 ###
 
