@@ -27,9 +27,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ## Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaur-avvv&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 
 ### 🔮 Tools / Languages:
