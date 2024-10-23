@@ -1,5 +1,7 @@
-![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
+
 ### Hey! 🌞🌚 , I'm Gaurav
+
+![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
 <hr />
 
 
