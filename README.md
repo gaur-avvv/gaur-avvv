@@ -2,6 +2,7 @@
 ### Hey! 🌞🌚 , I'm Gaurav
 
 ![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
+
 <hr />
 
 
@@ -95,6 +96,11 @@
 
 ### Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaur-avvv&bg_color=000000&color=ff00ea&line=bb00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+### Show some ❤️ by starring some of my repositories !!
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **gaur-avvv/gaur-avvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
