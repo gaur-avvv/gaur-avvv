@@ -1,4 +1,6 @@
 
+  <img src="https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/>
+
 ### Hey! 🌞🌚 , I'm Gaurav
 
 ![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
