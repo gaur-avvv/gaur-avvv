@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql')
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![Javascript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
@@ -102,19 +102,3 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories !!
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**gaur-avvv/gaur-avvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
