@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql')
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![Javascript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
