@@ -18,6 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+
           # Options
           user: gaur-avvv
           template: classic
@@ -46,10 +47,3 @@ jobs:
           plugin_habits_charts: yes
           plugin_reactions: yes
           plugin_reactions_details: count
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          plugin_skyline: yes
-          plugin_skyline_year: 2025
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
