@@ -102,3 +102,7 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories !!
+
+<picture>
+<img src="github-metrics.svg">
+</picture>
