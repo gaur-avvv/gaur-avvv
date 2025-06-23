@@ -33,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaur-avvv&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6659&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
  
 
 ### 🔮 Tools / Languages:
@@ -92,6 +93,8 @@
 <br clear="both">
 
 ###
+
+
 
 ### 🪄 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=gaur-avvv&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
