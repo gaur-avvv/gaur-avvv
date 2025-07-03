@@ -34,6 +34,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaur-avvv&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6659&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+<div align="left">
+  <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
+    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/739361f1d440b17fc9e2f74e49fc185d86cbec14_badge.png" 
+         alt="This project is part of Shipwrecked, the world's first hackathon on an island!" 
+         style="width: 35%;">
+  </a>
+</div>
  
 
 ### 🔮 Tools / Languages:
