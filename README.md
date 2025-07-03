@@ -41,7 +41,9 @@
          style="width: 35%;">
   </a>
 </div>
- 
+<br>
+
+ <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
 ### 🔮 Tools / Languages:
 <hr />
