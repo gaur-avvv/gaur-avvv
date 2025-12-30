@@ -10,7 +10,7 @@
 
 
  ## About Me: 
-💜 Learning new things. I am passionate about computers, programming and cyber-sec.
+💜 Learning new things. I am passionate about machine learning, programming, artificial intelligence and cyber-sec.
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="320" height="250" /></div>
 
