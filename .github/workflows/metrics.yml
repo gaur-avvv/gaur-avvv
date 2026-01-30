@@ -14,16 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Current configuration doesn't require a GitHub token
+          token: NOT_NEEDED
 
           # Options
           user: gaur-avvv
@@ -32,9 +24,6 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
           plugin_fortune: yes
           plugin_nightscout: yes
           plugin_nightscout_datapoints: 12
@@ -43,9 +32,8 @@ jobs:
           plugin_nightscout_urgenthighalert: 250
           plugin_nightscout_urgentlowalert: 50
           plugin_nightscout_url: https://example.herokuapp.com
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_poopmap: yes
+          plugin_poopmap_days: 7
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_mode: image
@@ -66,10 +54,9 @@ jobs:
   "hide": "button, footer, a"
 }
 
-          plugin_skyline_year: 2026
+          plugin_skyline_year: 20
           plugin_splatoon: yes
           plugin_splatoon_salmon_limit: 1
           plugin_splatoon_sections: player, versus, salmon-run
           plugin_splatoon_source: splatnet
           plugin_splatoon_versus_limit: 1
-          plugin_traffic: yes
