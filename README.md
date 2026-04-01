@@ -1,24 +1,34 @@
 
+  
   <img src="https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&color=7F00FF&size=24&lines=Hey!+I'm+Gaurav+Singh⚡;Let's+Break+And+Code!!👀)
 
 ![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
 
-<hr />
+![Git](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=GitLab&secondaryLabel=.&primaryBGColor=%23400d0d&primaryTextColor=%23FFFFFF&secondaryBGColor=%230a0a0a&secondaryTextColor=%23000000&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Verdana&primaryTextTransform=capitalize&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=gitlab&primaryIconColor=%23ffffff&primaryIconSize=18&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23e6e6e6&primaryTextShadowBlur=4.5&primaryTextRotation=-6)
+![Vite](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Vite&secondaryLabel=.&primaryBGColor=%23002633&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23000000&primaryFontSize=13&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Arial&primaryTextTransform=capitalize&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=vite&primaryIconColor=%23FFFFFF&primaryIconSize=16&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23ffffff&primaryTextShadowBlur=2)
+![NPM](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=NPM&secondaryLabel=.&primaryBGColor=%232d0042&primaryTextColor=%23FFFFFF&secondaryBGColor=%23050505&secondaryTextColor=%23000000&primaryFontSize=13&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Arial&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=npm&primaryIconColor=%23FFFFFF&primaryIconSize=16&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23ffffff&primaryTextShadowBlur=2)
+![Docker](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Docker&secondaryLabel=.&primaryBGColor=%230d004d&primaryTextColor=%23ffffff&secondaryBGColor=%23050505&secondaryTextColor=%23000000&primaryFontSize=13&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Verdana&primaryTextTransform=capitalize&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=docker&primaryIconColor=%23ffffff&primaryIconSize=18&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23ffffff&primaryTextShadowBlur=2&primaryTextRotation=4)
 
 
+
+
+<div align="center">
 
  ## About Me: 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />Learning new things. I am passionate about machine learning, programming, artificial intelligence and cyber-sec.
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="320" height="250" /></div>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="320" height="250" /></div>
 
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 
-
+<div align="center">
+  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -29,12 +39,14 @@
 ![Javascript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
+
+
 ## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaur-avvv&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<div/>
 
  [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravvv)](https://holopin.io/@gauravvv)
 
@@ -107,3 +119,5 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories !!
+
+<div/>
