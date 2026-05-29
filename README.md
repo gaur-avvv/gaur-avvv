@@ -17,7 +17,7 @@
 | Project | Domain | Tech Stack | Description |
 | --- | --- | --- | --- |
 | **[Bio-SentinelX](https://github.com/gaur-avvv/Bio-SentinelX)** | Healthcare AI / Edge | `Prompt Engineering`, `Machine Learning`, `Redis`, `Docker`, `Agent`, `MCP` | A preventive health intelligence system acting as an early-warning mechanism by analyzing real-time and forecasted environmental data. |
-| **[Arogya-AI](https://github.com/gaur-avvv/Arogya-AI)** | Hybrid Health / NLP | `Health Science`, `LLMs`, `Machine Learning`, `SMOTE`, `TF-IDF`, `OAuth`, `Hashing` | Integrates machine learning and large language models with Ayurvedic principles for personalized health assessments and symptom interpretation. |
+| **[Arogya-AI](https://github.com/gaur-avvv/Arogya-AI)** | Hybrid Health / NLP | `Health Science`, `LLMs`, `Machine Learning`, `SMOTE`, `TF-IDF`, `OAuth`, `Hashing`, `Firebase`, `Scikit-learn`, `IAM Roles` | Integrates machine learning and large language models with Ayurvedic principles for personalized health assessments and symptom interpretation. |
 | **[MAC-Spoofer-Pro](https://github.com/gaur-avvv/MAC-Spoofer-Pro)** | Cybersecurity / Privacy | `Python`, `Linux Networking`, `Operating System`, `Cyber Security`, `Computer Networking` | A powerful tool designed to safely spoof and randomize MAC addresses on Linux-based systems to enhance network privacy. |
 | **[Flood-Prediction-Early-Warning](https://github.com/gaur-avvv/Flood-Prediction-Early-Warning)** | Disaster Management | `Python`, `Predictive ML`, `Open Metro`, `Fast API`, `Backend`, `Machine Learning`, `Docker`, `Postgre SQL` | An early-warning forecasting model designed to predict flood occurrences using environmental data streams. |
 
