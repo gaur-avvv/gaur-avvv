@@ -12,6 +12,17 @@
 ![Docker](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Docker&secondaryLabel=.&primaryBGColor=%230d004d&primaryTextColor=%23ffffff&secondaryBGColor=%23050505&secondaryTextColor=%23000000&primaryFontSize=13&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Verdana&primaryTextTransform=capitalize&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=docker&primaryIconColor=%23ffffff&primaryIconSize=18&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23ffffff&primaryTextShadowBlur=2&primaryTextRotation=4)
 
 
+## 🛠️ Featured Projects
+
+| Project | Domain | Tech Stack | Description |
+| --- | --- | --- | --- |
+| **[Bio-SentinelX](https://github.com/gaur-avvv/Bio-SentinelX)** | Healthcare AI / Edge | `Prompt Engineering`, `Machine Learning`, `Redis`, `Docker`, `Agent`, `MCP` | A preventive health intelligence system acting as an early-warning mechanism by analyzing real-time and forecasted environmental data. |
+| **[Arogya-AI](https://github.com/gaur-avvv/Arogya-AI)** | Hybrid Health / NLP | `Health Science`, `LLMs`, `Machine Learning`, `SMOTE`, `TF-IDF`, `OAuth`, `Hashing` | Integrates machine learning and large language models with Ayurvedic principles for personalized health assessments and symptom interpretation. |
+| **[MAC-Spoofer-Pro](https://github.com/gaur-avvv/MAC-Spoofer-Pro)** | Cybersecurity / Privacy | `Python`, `Linux Networking`, `Operating System`, `Cyber Security`, `Computer Networking` | A powerful tool designed to safely spoof and randomize MAC addresses on Linux-based systems to enhance network privacy. |
+| **[Flood-Prediction-Early-Warning](https://github.com/gaur-avvv/Flood-Prediction-Early-Warning)** | Disaster Management | `Python`, `Predictive ML`, `Open Metro`, `Fast API`, `Backend`, `Machine Learning`, `Docker`, `Postgre SQL` | An early-warning forecasting model designed to predict flood occurrences using environmental data streams. |
+
+
+
 
 
 <div align="center">
