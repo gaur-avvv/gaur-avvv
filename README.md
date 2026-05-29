@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="150" height="150" />
   
   <img src="https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/>
 
@@ -12,7 +12,7 @@
 ![Docker](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=Docker&secondaryLabel=.&primaryBGColor=%230d004d&primaryTextColor=%23ffffff&secondaryBGColor=%23050505&secondaryTextColor=%23000000&primaryFontSize=13&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Verdana&primaryTextTransform=capitalize&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=docker&primaryIconColor=%23ffffff&primaryIconSize=18&primaryIconPosition=left&scale=0.8&borderRadius=10&primaryTextShadowColor=%23ffffff&primaryTextShadowBlur=2&primaryTextRotation=4)
 
 
-## 🛠️ Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> Featured Projects
 
 | Project | Domain | Tech Stack | Description |
 | --- | --- | --- | --- |
@@ -27,7 +27,7 @@
 
 <div align="center">
 
- ## About Me: 
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> About Me: 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />Learning new things. I am passionate about machine learning, programming, artificial intelligence and cyber-sec.
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="320" height="250" /></div>
@@ -63,7 +63,7 @@
 
  [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravvv)](https://holopin.io/@gauravvv)
 
-### 🔮 Tools / Languages:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Tools / Languages:
 <hr />
 
 <h5 align="left"> These are the tools and languages that I have working with and have experience using them.</h5>
@@ -123,7 +123,7 @@
 
 
 
-### 🪄 Top Contributed Repo:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=gaur-avvv&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ### Graph:
@@ -131,6 +131,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories !!
+### Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" /> by starring some of my repositories !!
 
 <div/>
