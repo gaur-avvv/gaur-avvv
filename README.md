@@ -124,7 +124,7 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=gaur-avvv&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gaur-avvv&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=gaur-avvv&include_all_commits=true&theme=midnight-purple)
 
 ### Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaur-avvv&bg_color=000000&color=9657d6&line=bb00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
